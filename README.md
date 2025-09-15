@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Omar 👋
 
-<!--
-**OneOmar/OneOmar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer | React & Java | Passionate about building efficient and intuitive web applications.  
+Currently exploring modern web technologies and creating hands-on projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me
+[Email](mailto:elmanssouriomar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/omar-el-manssouri) | [Portfolio](https://omar-elmanssouri.com)
+
+---
+
+### 💻 Tech Stack
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+### 📊 GitHub Stats
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneOmar&show_icons=true&theme=radical)
