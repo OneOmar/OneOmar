@@ -18,7 +18,3 @@ Currently exploring modern web technologies and creating hands-on projects.
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-### 📊 GitHub Stats
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=OneOmar&show_icons=true&theme=radical)
