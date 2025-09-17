@@ -1,7 +1,7 @@
 ![Welcome banner](./assets/typing.svg)
 
-Full-Stack Developer | React & Java | Passionate about building efficient and intuitive web applications.  
-Currently exploring modern web technologies and creating hands-on projects.
+**Full-Stack Developer** focused on React & Java.  
+Passionate about crafting fast, intuitive web apps and exploring the latest in modern web technologies.
 
 ---
 
