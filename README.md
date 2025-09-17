@@ -1,4 +1,4 @@
-# Hi, I'm Omar 👋
+![Welcome banner](./assets/typing.svg)
 
 Full-Stack Developer | React & Java | Passionate about building efficient and intuitive web applications.  
 Currently exploring modern web technologies and creating hands-on projects.
