@@ -6,7 +6,7 @@ Currently exploring modern web technologies and creating hands-on projects.
 ---
 
 ### 📫 Contact Me
-[Email](mailto:elmanssouriomar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/omar-el-manssouri) | [Portfolio](https://omar-elmanssouri.com)
+[Email](mailto:elmanssouriomar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/omar-el-manssouri) | [Portfolio](https://omar-portfolio-psi.vercel.app/)
 
 ---
 
