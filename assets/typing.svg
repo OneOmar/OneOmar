@@ -10,10 +10,11 @@
       white-space: pre;
     }
 
+    /* Faster typing: 1.2s instead of 2.5s */
     #cp rect {
       width: 0;
       height: 48px;
-      animation: typing 2.5s steps(20) 0.4s forwards;
+      animation: typing 1.2s steps(20) 0.2s forwards;
     }
 
     .caret {
