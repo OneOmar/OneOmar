@@ -1,64 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg xmlns="http://www.w3.org/2000/svg"
-     width="820" height="120" viewBox="0 0 820 120" role="img" aria-labelledby="title">
-  <title id="title">Welcome banner</title>
+     width="520" height="100" viewBox="0 0 520 100" role="img" aria-labelledby="title">
+  <title id="title">Hi, I'm Omar 👋</title>
 
   <style>
     .text {
-      font: 700 36px/1 "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      font: 700 36px/1 "Segoe UI", Roboto, Arial, system-ui, sans-serif;
       fill: #7c3aed;
       white-space: pre;
     }
 
-    /* clip rect used to reveal the text as if typing */
-    #reveal rect {
-      width: 0px;
+    #cp rect {
+      width: 0;
       height: 48px;
-      animation: typing 3s steps(36) 0.4s forwards;
+      animation: typing 2.5s steps(20) 0.4s forwards;
     }
 
-    /* blinking caret */
     .caret {
-      rx: 1;
-      ry: 1;
       animation: blink 1s steps(2) infinite;
-      transform-origin: 0 0;
     }
 
     @keyframes typing {
-      from { width: 0px; }
-      to   { width: 520px; } /* adjust to match text length */
+      from { width: 0; }
+      to   { width: 280px; }
     }
 
     @keyframes blink {
       50% { opacity: 0; }
     }
-
-    /* small friendly responsive rule for tiny screens */
-    @media (max-width:420px) {
-      .text { font-size: 22px; }
-    }
   </style>
 
   <defs>
-    <clipPath id="cp"><rect x="0" y="0" width="0" height="48"/></clipPath>
+    <clipPath id="cp"><rect x="0" y="-32" width="0" height="48"/></clipPath>
   </defs>
 
-  <!-- group positioned so text sits nicely -->
-  <g transform="translate(12, 78)">
-    <!-- the visible text, clipped by the rect above (typing illusion) -->
-    <text class="text" clip-path="url(#cp)">
-      Hi — I'm Omar El Manssouri · Full-stack Dev
-    </text>
-
-    <!-- caret: a thin rectangle that blinks at the end of the text.
-         adjust x to place it where you want or animate it later. -->
-    <rect class="caret" x="524" y="-34" width="6" height="44" fill="#7c3aed"/>
+  <g transform="translate(12,70)">
+    <text class="text" clip-path="url(#cp)">Hi, I'm Omar 👋</text>
+    <rect class="caret" x="284" y="-34" width="6" height="44" fill="#7c3aed"/>
   </g>
-
-  <!-- animate the clipPath rect (this targets the rect inside the clipPath) -->
-  <style>
-    /* target the rect inside the clipPath by using the id */
-    #cp rect { animation: typing 3s steps(36) 0.4s forwards; }
-  </style>
 </svg>
